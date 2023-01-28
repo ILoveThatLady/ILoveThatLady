@@ -2,7 +2,7 @@
 - 👀 I’m interested in back-end development.
 - 🌱 I’m currently learning how to use Django in my python projects.
 - 💞️ I’m looking to collaborate on data science projects.
-- 📫 How to reach me ortizemilio.pers@gmail.com
+- 📫 How to reach me ortizemilio.dev@gmail.com
 
 <!---
 ILoveThatLady/ILoveThatLady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
