@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ILoveThatLady
-- 👀 I’m interested in back-end development.
-- 🌱 I’m currently learning how to use Django in my python projects.
-- 💞️ I’m looking to collaborate on data science projects.
+- 👋 Hi, I’m Emilio Ortiz
+- 👀 I’m interested in frontend development.
+- 🌱 I’m currently learning how to use React in my projects.
+- 💞️ I’m looking to collaborate on UI & UX design.
 - 📫 How to reach me ortizemilio.dev@gmail.com
 
 <!---
