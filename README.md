@@ -8,5 +8,3 @@ I'm a passionate frontend developer from Mexico. Since I was a kid I always like
 * 🈸 Next.js
 * 💻 HTML, CSS, TS
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilovethatlady)](https://github.com/anuraghazra/github-readme-stats)
